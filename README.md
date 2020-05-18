@@ -2,8 +2,9 @@
 # Word War: Server
 
 [![GitHub release](https://img.shields.io/github/v/release/prasad1120/word-war-server.svg)](https://GitHub.com/prasad1120/word-war-server/releases/)
+![GitHub top language](https://img.shields.io/github/languages/top/prasad1120/word-war-server)
 
-A multiplayer game using client-server architecture and sockets in which two players compete to 
+A multiplayer game in Java using client-server architecture and sockets in which two players compete to 
 find more number of English language words in a predefined time from a separate but similar 
 4x4 board of letters based on their frequency in English.
 
